@@ -6,7 +6,7 @@ from datetime import time
 
 TOKEN = os.environ["DISCORD_TOKEN"]
 
-FORUM_CHANNEL_ID = 123456789012345678  # replace with your forum channel ID
+FORUM_CHANNEL_ID = 1470836895440179280
 
 WORDS = [
     "Rain",
